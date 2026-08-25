@@ -255,8 +255,8 @@ Potential improvements include:
 
 **Aaryan Patil**
 
-B.Tech Computer Science Engineering Student
-VIT Pune
+⭐ B.Tech Computer Science Engineering Student
+   VIT Pune (1st Yr)
 
 [GitHub](https://github.com/Aaryanpatil21)
 
