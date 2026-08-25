@@ -5,9 +5,9 @@
 
 🤖 AI-Assisted Development
 
-AI tools were used during the development of this project as a learning and development assistant. They helped with code suggestions, debugging, explanations, and exploring different approaches.
+⭐ AI tools were used during the development of this project as a learning and development assistant. They helped with code suggestions, debugging, explanations, and exploring different approaches.
 
-I reviewed, tested, modified, and integrated the generated suggestions into the project to understand the implementation and ensure the final analysis was aligned with the project objectives.
+⭐ I reviewed, tested, modified, and integrated the generated suggestions into the project to understand the implementation and ensure the final analysis was aligned with the project objectives.
 
 
 ---
