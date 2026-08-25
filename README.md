@@ -3,9 +3,12 @@
 
 ⭐ This is the first project of my life  about Data Analysis.
 
-⭐ I have done with help of AI + My Creativity to Understand and Explore. 
+🤖 AI-Assisted Development
 
-⭐ Mainly the code was suggested by AI I  Retransformed it according to my requirements. 
+AI tools were used during the development of this project as a learning and development assistant. They helped with code suggestions, debugging, explanations, and exploring different approaches.
+
+I reviewed, tested, modified, and integrated the generated suggestions into the project to understand the implementation and ensure the final analysis was aligned with the project objectives.
+
 
 ---
 
