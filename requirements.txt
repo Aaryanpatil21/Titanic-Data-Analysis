@@ -1,4 +1,4 @@
-## I used VS CODE as i am familiar to it 
+I used VS CODE as I am familiar to it 
 
 pandas
 numpy
