@@ -1,7 +1,11 @@
 # Titanic-Data-Analysis  
 ⭐ My first Data-Analysis project of the Titanic dataset using Python, Pandas, NumPy and Matplotlib.
+
 ⭐ This is the first project of my life  about Data Analysis.
+
 ⭐ I have done with help of AI + My Creativity to Understand and Explore. 
+
+⭐ Mainly the code was suggested by AI I  Retransformed it according to my requirements. 
 
 ---
 
