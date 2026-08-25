@@ -172,7 +172,7 @@ The analysis revealed several important patterns:
 titanic-data-analysis/
 │
 ├── data/
-│   └── titanic.csv
+│   └── Titanic_Cleaned.csv
 |   └── requirements.txt
 │
 ├── images/
