@@ -1,7 +1,8 @@
-# Titanic-Data-Analysis  
-⭐ My first Data-Analysis project of the Titanic dataset using Python, Pandas, NumPy and Matplotlib.
+ # 🚢 Titanic Data Analysis
 
-⭐ This is the first project of my life  about Data Analysis.
+⭐ An exploratory data analysis project using Python to investigate passenger survival patterns in the Titanic dataset.
+
+⭐ This project focuses on data cleaning, feature engineering, exploratory analysis, correlation analysis, and data visualization using Pandas, NumPy, Matplotlib, and Seaborn.
 
 🤖 AI-Assisted Development
 
