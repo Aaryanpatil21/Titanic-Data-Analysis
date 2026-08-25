@@ -1,5 +1,7 @@
 # Titanic-Data-Analysis  
-My first Data-Analysis project of the Titanic dataset using Python, Pandas, NumPy and Matplotlib.
+⭐ My first Data-Analysis project of the Titanic dataset using Python, Pandas, NumPy and Matplotlib.
+⭐ This is the first project of my life  about Data Analysis.
+⭐ I have done with help of AI + My Creativity to Understand and Explore. 
 
 ---
 
@@ -166,15 +168,12 @@ titanic-data-analysis/
 |   └── requirements.txt
 │
 ├── images/
-│   ├── survival_count.png
-│   ├── survival_by_gender.png
-│   ├── survival_by_class.png
 │   ├── survival_by_age_group.png
-│   ├── survival_by_embarked.png
-│   ├── fare_distribution.png
-│   ├── age_distribution.png
+|   ├── correlation_heatmap.png
+|   ├── survival_by_class.png
+│   ├── survival_by_gender.png
 │   ├── survival_class_gender.png
-│   └── correlation_heatmap.png
+│   
 │
 ├── src/
 │   └── titanic_analysis.py
